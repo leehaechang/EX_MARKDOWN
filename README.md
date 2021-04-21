@@ -1,7 +1,17 @@
 # EX_MARKDOWN
 
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:------|:-------------|:------:|------:|:------:|------:|
+|1     |down8325|이해창|down8325@daum.net|d
+|1     |down8325|이해창|down8325@daum.net|d
+|1     |down8325|이해창|down8325@daum.net|d
+|1     |down8325|이해창|down8325@daum.net|d
+|1     |down8325|이해창|down8325@daum.net|d
+
+
 ### 9. 이미지 넣기  
-![e클래스 cafe](https://cafe.naver.com/kndjang "e클래스 cafe 입니다")
+![e클래스 cafe](https://github.com/leehaechang/EX_MARKDOWN/blob/main/design01.png "e클래스 cafe 입니다")
 
 
 ### 1. 문단 구분을 위한 개행.
@@ -39,7 +49,7 @@ public static void main (String []args){
 
 }
 
-
+```
 ## 4. 목록
 * 목록이름  
 * 목록이름
