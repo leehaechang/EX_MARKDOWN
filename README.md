@@ -1,4 +1,9 @@
 # EX_MARKDOWN
+
+### 9. 이미지 넣기  
+![e클래스 cafe](https://cafe.naver.com/kndjang "e클래스 cafe 입니다")
+
+
 ### 1. 문단 구분을 위한 개행.
 문단을 작성 하세요  
 봄이 가고 여름이 오고 있습니다.  
